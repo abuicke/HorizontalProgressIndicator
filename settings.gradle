@@ -1,1 +1,1 @@
-include ':app', ':caimito'
+include ':horizontalprogressindicator', ':caimito'
