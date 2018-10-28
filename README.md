@@ -6,6 +6,6 @@ Download
 
 ```groovy
 dependencies {
-    implementation 'ie.moses.horizontalprogressindicator:horizontalprogressindicator:1.0.1'
+    implementation 'ie.moses.horizontalprogressindicator:horizontalprogressindicator:1.1.0'
 }
 ```
